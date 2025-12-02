@@ -1,1 +1,1 @@
-ros:noetic-desktop-full
+ros:noetic-desktop

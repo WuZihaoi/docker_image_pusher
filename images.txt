@@ -1,1 +1,1 @@
-ros:humble-desktop-full
+osrf/ros:humble-desktop-full
